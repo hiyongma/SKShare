@@ -1,0 +1,16 @@
+c:\users\royma.redmond\documents\visual studio 2013\Projects\XBOXONEAnnotation\XBOXONEAnnotation\bin\XBOXONEAnnotation.dll.config
+c:\users\royma.redmond\documents\visual studio 2013\Projects\XBOXONEAnnotation\XBOXONEAnnotation\bin\XBOXONEAnnotation.dll
+c:\users\royma.redmond\documents\visual studio 2013\Projects\XBOXONEAnnotation\XBOXONEAnnotation\bin\XBOXONEAnnotation.pdb
+c:\users\royma.redmond\documents\visual studio 2013\Projects\XBOXONEAnnotation\XBOXONEAnnotation\obj\Debug\XBOXONEAnnotation.dll
+c:\users\royma.redmond\documents\visual studio 2013\Projects\XBOXONEAnnotation\XBOXONEAnnotation\obj\Debug\XBOXONEAnnotation.pdb
+c:\users\royma.redmond\documents\visual studio 2013\Projects\XBOXONEAnnotation\XBOXONEAnnotation\obj\Debug\XBOXONEAnnotation.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\XBOXONEAnnotation\bin\XBOXONEAnnotation.dll
+C:\inetpub\wwwroot\XBOXONEAnnotation\bin\XBOXONEAnnotation.pdb
+C:\inetpub\wwwroot\XBOXONEAnnotation\obj\Debug\XBOXONEAnnotation.dll
+C:\inetpub\wwwroot\XBOXONEAnnotation\obj\Debug\XBOXONEAnnotation.pdb
+C:\Development\Web\XBOXONEAnnotation\bin\XBOXONEAnnotation.dll.config
+C:\Development\Web\XBOXONEAnnotation\bin\XBOXONEAnnotation.dll
+C:\Development\Web\XBOXONEAnnotation\bin\XBOXONEAnnotation.pdb
+C:\Development\Web\XBOXONEAnnotation\obj\Debug\XBOXONEAnnotation.csprojResolveAssemblyReference.cache
+C:\Development\Web\XBOXONEAnnotation\obj\Debug\XBOXONEAnnotation.dll
+C:\Development\Web\XBOXONEAnnotation\obj\Debug\XBOXONEAnnotation.pdb
