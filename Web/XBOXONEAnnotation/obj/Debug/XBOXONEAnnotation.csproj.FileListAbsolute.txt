@@ -14,3 +14,9 @@ C:\Development\Web\XBOXONEAnnotation\bin\XBOXONEAnnotation.pdb
 C:\Development\Web\XBOXONEAnnotation\obj\Debug\XBOXONEAnnotation.csprojResolveAssemblyReference.cache
 C:\Development\Web\XBOXONEAnnotation\obj\Debug\XBOXONEAnnotation.dll
 C:\Development\Web\XBOXONEAnnotation\obj\Debug\XBOXONEAnnotation.pdb
+C:\Users\royma\Documents\GitHub\SKShare\Web\XBOXONEAnnotation\bin\XBOXONEAnnotation.dll.config
+C:\Users\royma\Documents\GitHub\SKShare\Web\XBOXONEAnnotation\bin\XBOXONEAnnotation.dll
+C:\Users\royma\Documents\GitHub\SKShare\Web\XBOXONEAnnotation\bin\XBOXONEAnnotation.pdb
+C:\Users\royma\Documents\GitHub\SKShare\Web\XBOXONEAnnotation\obj\Debug\XBOXONEAnnotation.csprojResolveAssemblyReference.cache
+C:\Users\royma\Documents\GitHub\SKShare\Web\XBOXONEAnnotation\obj\Debug\XBOXONEAnnotation.dll
+C:\Users\royma\Documents\GitHub\SKShare\Web\XBOXONEAnnotation\obj\Debug\XBOXONEAnnotation.pdb
